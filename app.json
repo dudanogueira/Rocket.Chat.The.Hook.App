@@ -1,0 +1,18 @@
+{
+    "id": "7b14d5d8-52db-45a4-b9f9-21d330c8fb68",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Duda Nogueira",
+        "homepage": "http://github.com/dudanogueira",
+        "support": "github.com/dudanogueira/The.Hook.App"
+    },
+    "name": "The Hook",
+    "nameSlug": "the-hook",
+    "classFile": "TheHookApp.ts",
+    "description": "Generic Web Hook App",
+    "implements": [
+        "IPostUserLoggedIn"
+    ]
+}
